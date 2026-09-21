@@ -67,7 +67,7 @@ A real-time communication platform featuring one-to-one conversations, real-time
 
 ---
 
-### ⚙️ Reliable Job Queue
+### ⚙️ [Reliable Job Queue](https://github.com/shoryanagarwal/Reliable-Job-Queue)
 
 A reliable background job processing system with retry handling and a dead-letter queue for failed jobs.
 
@@ -75,7 +75,7 @@ A reliable background job processing system with retry handling and a dead-lette
 
 ---
 
-### 🔬 Trace X AI
+### 🔬 [Trace X AI](https://github.com/shoryanagarwal/SIH_2026)
 
 A predictive analytics platform for identifying latent defects in high-reliability electronic components using testing data and machine learning.
 
