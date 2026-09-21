@@ -122,27 +122,13 @@ I regularly practice **Data Structures & Algorithms** and competitive programmin
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shoryanagarwal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoryanagarwal&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shoryanagarwal&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-</p>
 
 ---
 
 ## 🤝 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/shoryan-agarwal-584236345/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
   </a>
   &nbsp;
